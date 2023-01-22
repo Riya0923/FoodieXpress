@@ -9,7 +9,6 @@ function MyApp({ Component, pageProps })  {
     </Layout>
   );
 }
-
+//ADDED A COMMENT LINE
 
 export default MyApp;
-//to try whether pushed or not
