@@ -9,7 +9,5 @@ function MyApp({ Component, pageProps })  {
     </Layout>
   );
 }
-//Added a comment line
-//another comment line
 
 export default MyApp;
