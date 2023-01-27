@@ -13,6 +13,7 @@
     display: flex;
     align-items: center;
 }
+/*added a comment*/
 .item:nth-child(2){
     flex: 3;
     /*background-color: white;*/

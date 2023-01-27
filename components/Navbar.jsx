@@ -21,7 +21,7 @@ const Navbar = () => {
                        <Image src="/img/logo.png" alt=""  width={160} height={69} />
                        <li className={styles.listItem}>Events</li>
                        <li className={styles.listItem}>Blog</li>
-                       <li className={styles.listItem}>Contact</li>
+                       <li className={styles.listItem}>Contacts</li>
                      
                   </ul>
             </div>
