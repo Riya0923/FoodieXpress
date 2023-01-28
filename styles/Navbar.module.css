@@ -12,11 +12,15 @@
     flex: 1;
     display: flex;
     align-items: center;
+    /*color: white;*/
 }
-/*added a comment*/
 .item:nth-child(2){
     flex: 3;
-    /*background-color: white;*/
+    color: white;
+}
+.item:last-child{
+    justify-content: flex-end;
+    
 }
 .callButton{
     background-color: white;
@@ -41,10 +45,17 @@
     padding: 0;
     display: flex;
     align-items: center;
-    list-style:none;
+    list-style: none;
     color: white;
 }
 .listItem{
     margin: 20px;
     font-weight: 500;
+    list-style: none;
+    color: white;
+    font-size: large;
 }
+.cart{
+    position: relative;
+}
+

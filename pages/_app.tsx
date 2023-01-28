@@ -9,6 +9,5 @@ function MyApp({ Component, pageProps })  {
     </Layout>
   );
 }
-//Adding a comment
 
 export default MyApp;
