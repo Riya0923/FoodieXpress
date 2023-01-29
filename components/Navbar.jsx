@@ -21,14 +21,14 @@ const Navbar = () => {
                        <Image src="/img/logo2.png" alt=""  width={120} height={90} />
                        <li className={styles.listItem}>Events</li>
                        <li className={styles.listItem}>Blog</li>
-                       <li className={styles.listItem}>Contacts</li>
+                       <li className={styles.listItem}>Contact</li>
                      
                   </ul>
             </div>
             <div className={styles.item}>
                  <div className={styles.cart}>
                       <Image src="/img/cart6.png" alt=""  width={50} height={60} />
-                      <div className={styles.counter}>2</div>
+                      <div className={styles.counter}>7</div>
                  </div>
             </div>
         </div>
