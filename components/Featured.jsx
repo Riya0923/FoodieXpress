@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Featured = () => {
 
-    const images = [
+    const images = [   
         "/img/featured.jpg",
         "/img/featured2.jpg",
         "/img/featured3.jpg"
@@ -14,8 +14,8 @@ const Featured = () => {
              <div className={styles.wrapper}>
                   <div className={styles.imgContainer}>
                        {images.map((img,i)=>(
-                       <Image src="/img/featured.png" key={i} alt="" layout='fill'/>
-                       ))}
+                       <Image src="/img/featured.jpg" key={i} alt="" layout='fill'/>
+                       ))} 
                   </div>
              </div>
              <Image src="/img/arrowr.png" layout='fill' alt=""/>
