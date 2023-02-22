@@ -37,6 +37,7 @@
     font-weight: 500;
 }
 .texts:last-child{
+    /* order now */
     font-size: 20px;
     font-weight: bold;
 }
@@ -59,6 +60,7 @@
 }
 
 .counter{
+    /* cart counter */
     position: absolute;
     top: 0;
     right: 0;
