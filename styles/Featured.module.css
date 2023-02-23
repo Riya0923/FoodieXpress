@@ -2,3 +2,13 @@
     height: calc(100vh-100px);
     background-color: red;
 }
+.arrowContainer{
+    position: relative;
+    width: 10%;
+    height: 20%;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    color: white;
+    z-index: 999;
+}
