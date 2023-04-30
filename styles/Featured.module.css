@@ -4,7 +4,7 @@
     overflow: hidden;
 }
 .arrowContainer{
-    position: relative;
+    position: absolute;
     width: 10%;
     height: 20%;
     top: 0;
